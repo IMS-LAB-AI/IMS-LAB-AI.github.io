@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Ims-lab-ai review"
+title                    : "AI reviews"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "IMS-Lab"
